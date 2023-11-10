@@ -46,8 +46,8 @@ export const about = {
 	title: "Who I am",
 	description: [
 		"I am a third-year Information Systems major with a concentration in Data Analytics and a minor in Social and Political History.",
-		"The tech industry is ever-evolving and I love being able to grow with it, while continually solidifying the fundamentals. I opensource my code from a place of empathy - for future developers, teammates, users, and with accessibility in mind. I also love joining communities, helping and mentoring new developers, and supporting organizations to promote diversity in tech. I’m sharing my programming journey on instagram, helping people who are just getting into the space of programming.",
-		"When I’m not programming, I focus on my hobbies which are: diary writing, doodling, meeting people and growing my network.",
+		"I enjoy combining my programming skills with my knowledge of data analysis and machine learning to create better software that makes an impact.",
+		"When I’m not programming or doing homework, I enjoy particpating in SASE, teaching new learners programming, and working at local restaurants!",
 	],
 }
 
