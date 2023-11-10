@@ -55,13 +55,13 @@ export const work = {
 	title: "What I do",
 	cards: [
 		{
-			title: "Mobile App Development",
-			description: "I create pixel perfect iOS and Andriod apps using Flutter.",
+			title: "Software Development",
+			description: "I apply SWE principles and programming knowledge to solve real-world problems.",
 			icons: null,
 		},
 		{
-			title: "Web Development",
-			description: "I create responsive static websites using Reactjs.",
+			title: "Machine Learning and Data Analysis",
+			description: "I solve problems through machine learning and data analysis.",
 			icons: null,
 		}
 	],
@@ -71,40 +71,37 @@ export const projects = {
 	title: "Projects",
 	cards: [
 		{
-			title: "StarBook",
-			description: "A digital diary and mood tracking app that helps you in keeping track of your mood and productivity throughout the month/year.",
+			title: "HASH",
+			description: "A startup in its infancy but is being actively worked on with hopes to launch in May! Further details to come.",
+			icons: null,
+			// icons: [
+				// {
+				// 	icon: faAppStore,
+				// 	link: "https://docs.google.com/document/d/1qTRv73iMPIcw75h56K2cd0rSJPk3dSdiIxpkFvvKVDA/edit?usp=sharing",
+				// },
+				// {
+				// 	icon: faGithub,
+				// 	link: "https://github.com/hashirshoaeb/star_book",
+				// },
+			// ]
+		},
+		{
+			title: "CMUlator",
+			description: "A slice of life simulation game developed with the goal of giving incoming students a virtual experience of Carnegie Mellon. Incorporates objected-oriented programming and pathfinding algorithms.",
 			icons: [
 				{
-					icon: faAppStore,
-					link: "https://apps.apple.com/us/app/starbook-journal-ai-diary/id1552418289",
-				},
-				{
 					icon: faGithub,
-					link: "https://github.com/hashirshoaeb/star_book",
+					link: "https://github.com/kateyzcodes/cmulator",
 				},
 			]
 		},
 		{
-			title: "QuranTalk",
-			description: "An emotional well being and mental health app. The app helps people to navigate their emotions in the light of the Quran.",
-			icons: [
-				{
-					icon: faAppStore,
-					link: "https://apps.apple.com/us/app/qurantalk/id1563425149",
-				},
-				{
-					icon: faGooglePlay,
-					link: "https://play.google.com/store/apps/details?id=com.ayahemotion.quran_talk",
-				},
-			]
-		},
-		{
-			title: "Portfolio",
-			description: "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
+			title: "OpenTable Database Project",
+			description: "A term project that works through the entire lifecycle of the database design and development process. Please contact me for access to the repository!",
 			icons: [
 				{
 					icon: faGithub,
-					link: "https://github.com/kateyzcodes/portfolio",
+					link: "https://github.com/kateyzcodes/67262-database-term-project",
 				},
 			]
 		},
@@ -143,15 +140,15 @@ export const links = {
 	cards: [
 		{
 			title: "My website",
-			link: "https://hashirshoaeb.com/",
+			link: "https://kateyzcodes.github.io/portfolio/",
 		},
 		{
-			title: "QuranTalk App",
-			link: "https://www.qurantalk.app/",
+			title: "CMUlator",
+			link: "https://github.com/kateyzcodes/cmulator",
 		},
 		{
-			title: "StarBook App",
-			link: "https://starbook.dev/",
+			title: "OpenTable Database Project",
+			link: "https://github.com/kateyzcodes/67262-database-term-project",
 		},
 		{
 			title: "My GitHub",
